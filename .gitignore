@@ -1,0 +1,11 @@
+# Tracking only the solution and its notes: the kit's snapshots, harness and questions stay out
+/*
+!/.gitignore
+!/.github/
+!/NOTES.md
+!/requirements.txt
+!/submission/
+__pycache__/
+.mypy_cache/
+.DS_Store
+.env
